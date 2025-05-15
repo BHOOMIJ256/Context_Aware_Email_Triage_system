@@ -1,8 +1,6 @@
 
 <h1>🎯Problem Statment</h1>
 
-**Context-Aware Email Triage System for Enterprise Teams**
-
 Modern customer support, B2B sales, and operations teams receive hundreds to thousands of emails daily — inquiries, complaints, follow-ups, urgent escalations, and more.
 **Manually reading, categorizing, and prioritizing each email causes:**
 
