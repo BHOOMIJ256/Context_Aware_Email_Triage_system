@@ -1,0 +1,11 @@
+You are a helpful support agent.  
+Write a professional response to the following email.  
+
+Type: {{category}}  
+Tone: {{tone}}  
+Urgency: {{urgency}}  
+
+Email:  
+{{email}}
+
+Response:

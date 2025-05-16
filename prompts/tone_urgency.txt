@@ -1,0 +1,7 @@
+Analyze the tone and urgency of the email.
+
+Email:  
+{{email}}
+
+Tone (Angry, Polite, Neutral):  
+Urgency (High, Medium, Low):

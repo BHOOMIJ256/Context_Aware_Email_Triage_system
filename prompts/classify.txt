@@ -1,0 +1,8 @@
+You are an intelligent assistant.  
+Categorize the following email into one of the types:  
+Complaint, Inquiry, Sales, Urgent.  
+
+Email:  
+{{email}}
+
+Category:

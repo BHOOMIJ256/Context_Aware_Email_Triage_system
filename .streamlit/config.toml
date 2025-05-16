@@ -1,0 +1,7 @@
+[theme]
+base="dark"         # default can be "light", "dark", or "system"
+primaryColor="#4B8BBE"
+backgroundColor="#f5f5f5"
+secondaryBackgroundColor="#e0e0e0"
+textColor="#262730"
+font="sans serif"
