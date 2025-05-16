@@ -106,6 +106,32 @@ Accessible via **Dashboard.py**
 
  #  🛠️ Tech Stack
 
+| Component         | Technology              |
+| ----------------- | ----------------------- |
+| Backend API       | FastAPI                 |
+| Database          | SQLite                  |
+| Frontend          | Streamlit               |
+| Visualization     | Altair + Pandas         |
+| Email Sender      | smtplib                 |
+| Inbox Fetching    | imaplib                 |
+| Scheduler         | Cron/Task Scheduler     |
+
+# ✅ Business Impact
+⏱️ Reduces email response time by surfacing high-priority emails instantly
+
+🤖 Automates repetitive tasks like email categorization and status tagging
+
+📈 Enables performance tracking and team accountability through visual dashboards
+
+💼 Scales easily for startups, support desks, and enterprise communication workflows
+
+# Demo Video 
+
+https://github.com/user-attachments/assets/1c67b7cb-e81e-49c3-acc8-188cf139f988
+
+
+
+
 
 
   
